@@ -1,0 +1,10 @@
+td{
+    border: 2px solid gold;
+}
+caption{
+    padding: 10px;
+    caption-side: bottom;
+}
+table{
+    font-family: sans-serif;
+}
